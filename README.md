@@ -1,2 +1,2 @@
 # 2025_PGA_Workshop-Feb
-2025 Peru PGA Workshop
+Peru PGA Workshop in February 2025
