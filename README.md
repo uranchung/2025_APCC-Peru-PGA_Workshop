@@ -6,6 +6,7 @@
 - You can run the code directly in Colab by clicking "***Open in Colab***" on the code in the `Simple Calc GDD` folder.
 
 ***
+&nbsp; 
 ### 🪴 Growing Degree Day
 ### Phenology serves as an essential tool for understanding the temporal rhythms of nature and assessing the impact of human activities and environmental changes.
 
